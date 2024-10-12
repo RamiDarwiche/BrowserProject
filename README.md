@@ -1,4 +1,6 @@
-This is the second version of the repo for this project, I accidentally broke the first one 😭. This is my attempt to recreate a simple browser from scratch. It includes everything from HTML parsing and tree structuring to text and block formatting to HTTP request handling. As this project develops, the browser will become more intuitive and share more characteristics of modern browsers.
+# About
+
+This is my attempt to recreate a simple browser from scratch. It includes everything from HTML parsing and tree structuring to text and block formatting to HTTP request handling. As this project develops, the browser will become more intuitive and share more characteristics of modern browsers.
 
 The current state of the browser (9/27/2024):
 
